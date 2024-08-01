@@ -6,8 +6,8 @@ Using Neural Networks and Decision Tree frameworks, this project was able to dev
 
 Methodology:
 1. Extracting relevant metrics from SBA data (expressed above)
-2. Using EDA to combine data files and fill in missing values
-3. Standardize numerical variables
+2. Using EDA to combine data files and fill in missing values (Pandas)
+3. Standardize numerical variables (Scikit-learn)
 4. Use target encoding for high cardinality categorical variables and one-hot encoding for low cardinality categorical variables
 5. Splitting up data into training, cross-validation, and test sets (Scikit-learn)
 6. Automating the training of neural network models with different architectures and comparing accuracies (Tensorflow - Dense layers)
