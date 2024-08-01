@@ -18,4 +18,4 @@ Using Neural Networks and Decision Tree frameworks, this project was able to dev
 10. Comparing and choosing most effective and generalizable model
 
 ## Algorithmic Efficiency Comparison Results:
-Random Forest algorithm was able to identify a model that predicted the test set (over 50,000 examples) with 96%. Complexity of neural network architecture did not improve accuracy (cross-validation set error): models predicted loan status accuracy at 92%.
+Random Forest algorithm was able to identify a model that predicted the test set (over 50,000 examples) with 96% accuracy. Complexity of neural network architecture did not improve accuracy (cross-validation set error): models predicted loan status accuracy at 92%.
